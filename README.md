@@ -9,7 +9,7 @@
 npm install
 ```
 
-## server setup
+## server start up
 
 ```
 nodemon server
